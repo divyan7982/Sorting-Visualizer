@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-
+![alt text](image.png)
 This web application, built using HTML, CSS, and JavaScript, allows you to visualize classic sorting algorithms such as Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
 
 ## Purpose
